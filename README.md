@@ -45,7 +45,8 @@ Specialized in building real-world, user-facing interfaces — fast.
 
 ## 📬 Let’s Connect
 
-- 🌐 [yesimjin.com](http://yesimjin.com) – Portfolio  
+
+- 🌐 [yesimjin.com](https://jindev.notion.site/) – Portfolio  
 - 💼 [LinkedIn](https://www.linkedin.com/in/pixelberry-jinyi)  
 
 <!--
