@@ -39,7 +39,6 @@ Specialized in building real-world, user-facing interfaces — fast.
 
 - Designing resilient frontend architecture  
 - Remote-friendly, async-first workflows  
-- Teaching & mentoring junior engineers  
 - Bridging design ↔︎ development
 
 ---
