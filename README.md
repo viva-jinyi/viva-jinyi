@@ -15,6 +15,8 @@ Specialized in building real-world, user-facing interfaces — fast.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 
 ### Styling & Animation  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![styled-components](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat)
 ![Canvas](https://img.shields.io/badge/-Canvas-black?style=flat)
