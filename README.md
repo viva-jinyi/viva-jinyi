@@ -46,7 +46,6 @@ Specialized in building real-world, user-facing interfaces — fast.
 
 - 🌐 [yesimjin.com](https://yesimjin.com) – Portfolio  
 - 💼 [LinkedIn](https://www.linkedin.com/in/pixelberry-jinyi)  
-- 💻 [GitHub](https://github.com/yesimjin)
 
 <!--
 **yesimjin/yesimjin** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
