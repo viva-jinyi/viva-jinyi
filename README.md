@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jin Yi (이진)
+# 👾 Jin Yi (이진)
 
 Frontend Engineer with a product-driven mindset.  
 I care about shipping things that work, scale, and look great.  
@@ -46,7 +46,7 @@ Specialized in building real-world, user-facing interfaces — fast.
 
 ## 📬 Let’s Connect
 
-- 🌐 [yesimjin.com](https://yesimjin.com) – Portfolio  
+- 🌐 [yesimjin.com](http://yesimjin.com) – Portfolio  
 - 💼 [LinkedIn](https://www.linkedin.com/in/pixelberry-jinyi)  
 
 <!--
