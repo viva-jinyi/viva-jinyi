@@ -6,4 +6,4 @@ Specialized in building real-world, user-facing interfaces — fast.
 
 
 [LinkedIn 💬](https://www.linkedin.com/in/pixelberry-jinyi)
-[PoopieMate 💩✨](https://linktr.ee/pixelberry_jinyi)
+[PoopieMate 💩✨](https://viva-jinyi.github.io/poopiemate-website/)
