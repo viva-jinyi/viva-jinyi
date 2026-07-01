@@ -5,5 +5,5 @@ I care about shipping things that work, scale, and look great.
 Specialized in building real-world, user-facing interfaces — fast.
 
 
-https://www.linkedin.com/in/pixelberry-jinyi
-https://linktr.ee/pixelberry_jinyi
+[LinkedIn](https://www.linkedin.com/in/pixelberry-jinyi)
+[PoopieMate](https://linktr.ee/pixelberry_jinyi)
