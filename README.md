@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/poochie-wave.webp" width="150" alt="Poochie, the PoopieMate mascot, waving hello">
+<img src="assets/poochie-wave.webp" width="150" alt="Poochie, the POOPIEMATE mascot, waving hello">
 
 # 👾 Jin Yi (이진)
 
@@ -9,20 +9,20 @@ I care about shipping things that work, scale, and look great.<br>
 Specialized in building real-world, user-facing interfaces — fast.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jin%20Yi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pixelberry-jinyi)
-[![PoopieMate](https://img.shields.io/badge/PoopieMate-poopiemate.com-18955A?style=flat-square)](https://poopiemate.com)
+[![POOPIEMATE](https://img.shields.io/badge/POOPIEMATE-poopiemate.com-18955A?style=flat-square)](https://poopiemate.com)
 
 </div>
 
 ---
 
-## 💩 PoopieMate · 응가메이트
+## 💩 POOPIEMATE · 응가메이트
 
-<a href="https://poopiemate.com"><img src="assets/poopiemate-banner.jpg" alt="PoopieMate — Poochie’s face and the PoopieMate logo"></a>
+<a href="https://poopiemate.com"><img src="assets/poopiemate-banner.jpg" alt="POOPIEMATE — Poochie’s face and the POOPIEMATE logo"></a>
 
 **Your dog’s potty log, shared with the whole family.**<br>
 가족이 함께 보는 우리 강아지 응가 기록.
 
-I design and build PoopieMate on my own, from the app to the website.<br>
+I design and build POOPIEMATE on my own, from the app to the website.<br>
 It started with our own dog, who only goes outside, and the “Did Poochie poop?” calls we made every day.
 
 - 🔑 **One code brings everyone in** — invite your family with a single code
