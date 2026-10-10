@@ -41,6 +41,7 @@ It started with our own dog, who only goes outside, and the “Did Poochie poop?
   <a href="https://apps.apple.com/kr/app/%EC%9D%91%EA%B0%80%EB%A9%94%EC%9D%B4%ED%8A%B8/id6781981502"><img alt="Download on the App Store" src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
   <a href="https://play.google.com/store/apps/details?id=com.pixelberry.poopiemate"><img alt="Get it on Google Play" src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white"></a>
   <a href="https://poopiemate.com"><img alt="poopiemate.com" src="https://img.shields.io/badge/poopiemate.com-18955A?style=for-the-badge&logoColor=white"></a>
+  <a href="https://github.com/poopiemate"><img alt="GitHub organization" src="https://img.shields.io/badge/GitHub-poopiemate-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 <p align="center">
