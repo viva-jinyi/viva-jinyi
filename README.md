@@ -17,7 +17,7 @@ Specialized in building real-world, user-facing interfaces — fast.
 
 ## 💩 PoopieMate · 응가메이트
 
-<a href="https://poopiemate.com"><img src="assets/poopiemate-banner.jpg" alt="PoopieMate — “Did Poochie poop?” No need to ask anymore"></a>
+<a href="https://poopiemate.com"><img src="assets/poopiemate-banner.jpg" alt="PoopieMate — Poochie’s face and the PoopieMate logo"></a>
 
 **Your dog’s potty log, shared with the whole family.**<br>
 가족이 함께 보는 우리 강아지 응가 기록.
